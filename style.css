@@ -59,6 +59,7 @@ body {
     margin-top: 5px;
     margin-bottom: 0;
     font-size: 12px;
+    letter-spacing: 1px;
 }
 
 p {
@@ -91,5 +92,8 @@ hr {
 
 
 @media screen and (max-width: 900px) {
+    body {
+        background-position: -750px -600px, 100px 300px;
+    }
 
 }
