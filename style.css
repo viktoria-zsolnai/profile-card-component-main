@@ -13,7 +13,7 @@
 body {
     font-size: 18px;
     background-color: var(--dark-cyan);
-    background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
+    background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
     background-position: -300px -500px, 700px 400px;
     background-attachment: fixed fixed;
     background-repeat: no-repeat no-repeat;
