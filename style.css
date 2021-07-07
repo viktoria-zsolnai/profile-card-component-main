@@ -13,7 +13,7 @@
 body {
     font-size: 18px;
     background-color: var(--dark-cyan);
-    background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
+    background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTc4IiBoZWlnaHQ9Ijk3OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyR3JhZGllbnQgeDE9IjUwJSIgeTE9Ii43NzklIiB4Mj0iNTAlIiB5Mj0iMTAwJSIgaWQ9ImEiPjxzdG9wIHN0b3AtY29sb3I9IiMwOTg5QjQiIHN0b3Atb3BhY2l0eT0iMCIgb2Zmc2V0PSIwJSIvPjxzdG9wIHN0b3AtY29sb3I9IiM1M0ZGRUUiIG9mZnNldD0iOTkuOTQlIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PGVsbGlwc2UgZmlsbD0idXJsKCNhKSIgdHJhbnNmb3JtPSJyb3RhdGUoLTEzNSA0ODkgNDg5KSIgY3g9IjQ4OSIgY3k9IjQ4OSIgcng9IjQ4OSIgcnk9IjQ4OCIgZmlsbC1ydWxlPSJldmVub2RkIiBvcGFjaXR5PSIuNSIvPjwvc3ZnPg=="), url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTc4IiBoZWlnaHQ9Ijk3OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyR3JhZGllbnQgeDE9IjUwJSIgeTE9Ii43NzklIiB4Mj0iNTAlIiB5Mj0iMTAwJSIgaWQ9ImEiPjxzdG9wIHN0b3AtY29sb3I9IiMwOTg5QjQiIHN0b3Atb3BhY2l0eT0iMCIgb2Zmc2V0PSIwJSIvPjxzdG9wIHN0b3AtY29sb3I9IiM1M0ZGRUUiIG9mZnNldD0iOTkuOTQlIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PGVsbGlwc2UgZmlsbD0idXJsKCNhKSIgdHJhbnNmb3JtPSJzY2FsZSgxIC0xKSByb3RhdGUoNDUgMTY2OS41NSAwKSIgY3g9IjQ4OSIgY3k9IjQ4OSIgcng9IjQ4OSIgcnk9IjQ4OCIgZmlsbC1ydWxlPSJldmVub2RkIiBvcGFjaXR5PSIuMjUiLz48L3N2Zz4=");
     background-position: -300px -500px, 700px 400px;
     background-attachment: fixed fixed;
     background-repeat: no-repeat no-repeat;
@@ -33,7 +33,7 @@ body {
     background-color: #ffff;
     border-radius: 20px;
     margin: 175px 0px 0px 0px;
-    background-image: url(../images/bg-pattern-card.svg);
+    background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTc4IiBoZWlnaHQ9Ijk3OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyR3JhZGllbnQgeDE9IjUwJSIgeTE9Ii43NzklIiB4Mj0iNTAlIiB5Mj0iMTAwJSIgaWQ9ImEiPjxzdG9wIHN0b3AtY29sb3I9IiMwOTg5QjQiIHN0b3Atb3BhY2l0eT0iMCIgb2Zmc2V0PSIwJSIvPjxzdG9wIHN0b3AtY29sb3I9IiM1M0ZGRUUiIG9mZnNldD0iOTkuOTQlIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PGVsbGlwc2UgZmlsbD0idXJsKCNhKSIgdHJhbnNmb3JtPSJyb3RhdGUoLTEzNSA0ODkgNDg5KSIgY3g9IjQ4OSIgY3k9IjQ4OSIgcng9IjQ4OSIgcnk9IjQ4OCIgZmlsbC1ydWxlPSJldmVub2RkIiBvcGFjaXR5PSIuNSIvPjwvc3ZnPg==");
     background-position: top;
     background-repeat: no-repeat;
     box-shadow: 0 10px 500px var(--very-dark-desaturated-blue);
